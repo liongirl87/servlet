@@ -36,6 +36,7 @@
 	%>
 	
 	<%= getHelloWorld() %><br>
+	
 	<%= num + 200 %>
 </body>
 </html>
